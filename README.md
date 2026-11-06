@@ -35,9 +35,9 @@ Tested on DOSBox 0.74-3.
 ## Team
 | Member | Modules |
 |--------|---------|
-| Uzwa Shahid (Lead) | 1, 2, 3, 6, 14, 15 |
-| Usman | 4, 5, 10, 11 |
-| Hajra | 7, 8, 9, 12, 13 |
+| Uzwa Shahid | 1, 2, 3, 6, 14, 15 |
+| M.Usman | 4, 5, 10, 11 |
+| Hajra Ali | 7, 8, 9, 12, 13 |
 
 ## Git Workflow
 - No direct pushes to `main`
